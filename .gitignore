@@ -1,0 +1,4 @@
+*.o
+benzin
+.vscode
+.DS_Store

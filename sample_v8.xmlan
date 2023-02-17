@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+	<xmlan version="2.1.11BETA" brlan_version="0008">
+		<pai1 framesize="120" flags="01">
+			<pane name="Picture_01" type="0">
+				<tag type="RLPA">
+					<entry type1="0" type2="X Scale">
+						<triplet>
+							<frame>0.000000000000000</frame>
+							<value>0.500000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>60.000000000000000</frame>
+							<value>2.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>120.000000000000000</frame>
+							<value>0.500000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+					</entry>
+					<entry type1="0" type2="Y Scale">
+						<triplet>
+							<frame>0.000000000000000</frame>
+							<value>0.500000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>60.000000000000000</frame>
+							<value>2.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>120.000000000000000</frame>
+							<value>0.500000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+					</entry>
+				</tag>
+			</pane>
+		</pai1>
+	</xmlan>
