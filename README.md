@@ -14,7 +14,7 @@ This version was modified by WiiDatabase.de so that it can be built with the lat
 ## Building
 
 - For Linux, install `libxml-dev` (Debian-based: `sudo apt install libmxml-dev`)
-- For macOS, install `libxml` with brew: `brew install libxml`
+- For macOS, install `libxml` with brew: `brew install libmxml`
 - For Windows, see `Windows-Instructions.txt` (untested)
 
 If you get more errors that are thread related, you may need to add -lpthread to the end of the LIBS line
