@@ -21,12 +21,12 @@ If you get more errors that are thread related, you may need to add -lpthread to
 
 ## Credits
 
-trap15 - Original Coder, Leader
-megazig - Epic Hacker, Epic Coder, Second-in-Command
-booto - Epic Hacker, PowerPC Master
-Matt_P - Epic Hacker, Bytecode Genius
-Yossi - Does some python shiz
-comex - Did lots of python shiz back in the day
+* trap15 - Original Coder, Leader
+* megazig - Epic Hacker, Epic Coder, Second-in-Command
+* booto - Epic Hacker, PowerPC Master
+* Matt_P - Epic Hacker, Bytecode Genius
+* Yossi - Does some python shiz
+* comex - Did lots of python shiz back in the day
 
 ## License
 
