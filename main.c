@@ -40,9 +40,16 @@ int main(int argc, char* argv[])
 
 	if (argc < 4)
 	{
-		printf("Please use ./benzin r brlytfilename.brlyt xmlytfilename.xmlyt\n");
-		printf("				- OR - \n");
-		printf("Please use ./benzin m xmlytfilename.xmlyt brlytfilename.brlyt\n");
+		printf("Benzin v2.1.11 mod01 BETA\n\n");
+		printf("Usage:\n");
+        printf("\n");
+		printf("  ./benzin <r|m> [FILE] [OUTFILE]\n");
+        printf("\n");
+        printf("Examples:\n");
+		printf("  ./benzin r brlytfilename.brlyt xmlytfilename.xmlyt\n");
+		printf("  ./benzin m xmlytfilename.xmlyt brlytfilename.brlyt\n");
+		printf("  ./benzin r brlytfilename.brlan xmlytfilename.xmlan\n");
+		printf("  ./benzin m brlytfilename.xmlan xmlytfilename.brlan\n");
 		exit(1);
 	}
 
@@ -50,9 +57,16 @@ int main(int argc, char* argv[])
 	{
 		ext = strrchr(argv[2], '.');
 	} else {
-		printf("Please use ./benzin r brlytfilename.brlyt xmlytfilename.xmlyt\n");
-		printf("				- OR - \n");
-		printf("Please use ./benzin m xmlytfilename.xmlyt brlytfilename.brlyt\n");
+        printf("Benzin v2.1.11 mod01 BETA\n\n");
+		printf("Usage:\n");
+        printf("\n");
+		printf("  ./benzin <r|m> [FILE] [OUTFILE]\n");
+        printf("\n");
+        printf("Examples:\n");
+		printf("  ./benzin r brlytfilename.brlyt xmlytfilename.xmlyt\n");
+		printf("  ./benzin m xmlytfilename.xmlyt brlytfilename.brlyt\n");
+		printf("  ./benzin r brlytfilename.brlan xmlytfilename.xmlan\n");
+		printf("  ./benzin m brlytfilename.xmlan xmlytfilename.brlan\n");
 		exit(1);
 	}
 
