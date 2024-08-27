@@ -14,6 +14,7 @@ This version was modified by WiiDatabase.de so that it can be built with the lat
 ## Building
 
 - For Linux, install `libxml-dev` (Debian-based: `sudo apt install libmxml-dev`)
+  - For NixOS, use `NIXPKGS_ALLOW_UNFREE=1 nix build --impure`
 - For macOS, install `libxml` with brew: `brew install libmxml`
 - For Windows, see `Windows-Instructions.txt` (untested)
 
